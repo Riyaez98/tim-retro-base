@@ -1,0 +1,16 @@
+.citation{
+  height: 404px;
+  background: url("../images/bg-citation.jpg") fixed no-repeat;
+  background-size: cover;
+
+  color: var(--couleur-blanc);
+
+  .conteneur{
+    padding: 89px 0;
+  }
+  h3{
+     font-size: 40px;
+     font-weight: bold;
+     text-transform: uppercase;
+  }
+}

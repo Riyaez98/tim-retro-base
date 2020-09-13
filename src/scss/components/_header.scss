@@ -1,0 +1,12 @@
+.header-principal{
+  background: var(--couleur-noir);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  line-height: 92px;
+
+  div {
+    display: flex;
+    align-items: center;
+  }
+}

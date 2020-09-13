@@ -1,0 +1,20 @@
+.cartes{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.carte{
+  width: 31%;
+  height: 367px;
+  padding: 20px;
+  margin: 40px 0 0;
+
+  background: var(--couleur-blanc);
+
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+
+  img{
+    width: 17vh;
+  }
+}
